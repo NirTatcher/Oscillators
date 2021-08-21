@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import Osc from './components/Osc';
-import SimonSays from './components/SimonSays';
 
 
 
@@ -166,8 +165,8 @@ function App() {
         </a>
       </header> */}
 
-      {/* <Osc/> */}
-      <SimonSays/>
+      <Osc/>
+
 
     </div>
   );
